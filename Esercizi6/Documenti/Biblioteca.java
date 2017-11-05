@@ -394,5 +394,3 @@ public class Biblioteca {
         Biblioteca b = new Biblioteca();
     }
 }
-
-9c8373751dbdaf5354f30a9abaae5b491ca98d03
